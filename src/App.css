@@ -1,0 +1,40 @@
+#app {
+  background: #fff;
+  border-radius: 4px;
+  padding: 20px;
+  transition: all 0.2s;
+}
+
+.header {
+  text-align: center;
+}
+
+h2 {
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.search-box {
+  height: 24px;
+  margin-bottom: 12px;
+}
+
+.validation-msg,.search-info {
+  padding-left: 8px;
+  font-size: 12px;
+}
+.market-info {
+  padding: 10px 4px;
+  border-bottom: 1px dotted #123;
+}
+
+.market-id {
+  padding: 4px;
+  font-size: 10px;
+  display: inline-block;
+}
+
+.market-name {
+  padding:4px;
+  display: inline-block;
+}
